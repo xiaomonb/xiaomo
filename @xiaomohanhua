@@ -13,3 +13,47 @@ proxy-groups:
     proxies:
       - 🇭🇰 香港 01
       - 🇭🇰 香港 01 2
+rules:
+ - DOMAIN-SUFFIX,ol.epicgames.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,epicgames.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,helpshift.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,paragon.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,unrealengine.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,fanatical.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,humblebundle.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steam-chat.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamcommunity.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steampowered.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamstatic.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,csgo.wmsj.cn,🎮 游戏平台
+ - DOMAIN-SUFFIX,dl.steam.ksyna.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,dota2.wmsj.cn,🎮 游戏平台
+ - DOMAIN-SUFFIX,st.dl.bscstorage.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,st.dl.eccdnx.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,st.dl.pinyuncloud.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamcontent.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamgames.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steampowered.com.8686c.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamstat.us,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamstatic.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamusercontent.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN-KEYWORD,rockstargames,🎮 游戏平台
+ - DOMAIN,a.rsg.sc,🎮 游戏平台
+ - DOMAIN,gamedownloads-rockstargames-com.akamaized.net,🎮 游戏平台
+ - DOMAIN,media-rockstargames-com.akamaized.net,🎮 游戏平台
+ - DOMAIN,videos-rockstargames-com.akamaized.net,🎮 游戏平台
+ - DOMAIN,rockstarsupport.goquiq.com,🎮 游戏平台
+ - DOMAIN,ocsp.entrust.net,🎮 游戏平台
+ - DOMAIN,stats.g.doubleclick.net,🎮 游戏平台
+ - DOMAIN,static.quiq-cdn.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,recaptcha.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,rockstargames.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,playstation.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,playstation.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,playstationnetwork.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,sony.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,sonyentertainmentnetwork.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,measurement.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,nintendo.com,🎮 游戏平台
